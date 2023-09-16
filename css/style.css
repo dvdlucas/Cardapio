@@ -1,0 +1,58 @@
+#img-burguer{
+    display: inline-block;
+    margin-top: 2em;
+    float: right;
+    margin-right: 5em;
+}
+.img-burguer-fit{
+    width: 500px;
+    height: 360px;
+}
+#description{
+    display: inline-block;
+    float: left;
+    width: 600px;
+    margin-top: 13em;
+    margin-left: 5em;
+}
+
+#cardapio{
+    text-align: center;
+    color: yellow;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#img-header{
+    display: inline-block;
+    float: right;
+    margin-top: 1em;
+    width: 250px;
+    margin-right: 20em;
+}
+.header-text{
+    display: inline-block;
+    float: left;
+    margin-top: 1em;
+    margin-left: 8em;
+    color: rgb(255, 6, 6);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    -webkit-text-stroke: 0.5px #fbff03;
+    text-stroke: 0.5px #ffee07;
+}
+#h2-header{
+    margin-left: 10.7em;
+}
+#price{
+    color: yellow;
+    display: inline-block;
+}
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 27px;
+    color: #fd0808;
+    -webkit-text-stroke: 0.5px #fbff0a;
+    text-stroke: 0.5px #fffb08;
+}
+
+
+
